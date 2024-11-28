@@ -4,7 +4,7 @@
 Bot Telegram ini memungkinkan pengguna untuk melakukan transaksi di jaringan **Solana** menggunakan wallet **Phantom** mereka. Bot ini menggunakan berbagai teknologi, termasuk **python-telegram-bot**, **Solana Python SDK**, dan **python-dotenv**.
 
 ## Pembuat
-Proyek ini dibuat oleh **0xBitWishper**.
+Script by **0xBitWishper**.
 
 ## Fitur
 - Kirim token Solana (SOL) ke alamat yang ditentukan.
